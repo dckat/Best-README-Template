@@ -103,10 +103,10 @@ Contributions are what make the open source community such an amazing place to b
 ## Contact
 
 김대철 - kdc9619@khu.ac.kr
-Project Link: [https://github.com/dckat]
+Github Link: [https://github.com/dckat]
 
-최정민 -
-Project Link: [https://github.com/cjm2021401]
+최정민 - cjm2021401@khu.ac.kr
+Github Link: [https://github.com/cjm2021401]
 
 
 
