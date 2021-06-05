@@ -4,29 +4,34 @@
   <ol>
     <li>
       <a href="#about-the-project">프로젝트 소개</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#demo-link">데모 사이트</a>
+    </li>
+    <li>
+      <a href="#getting-started">시작하기</a>
       <ul>
         <li><a href="#prerequisites">요구사항</a></li>
-        <li><a href="#installation">설치방법</a></li>
+        <li><a href="#execution">실행방법</a></li>
       </ul>
     </li>
     <li><a href="#usage">사용법</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+      <ul>
+        <li><a href="#login">로그인</a></li>
+        <li><a href="#signup">회원가입</a></li>
+        <li><a href="#map">지도</a></li>
+        <li><a href="#review">후기등록</a></li>
+        <li><a href="#recommend">추천</a></li>
+      </ul>
+    <li><a href="#contributing>Contributing</li>
     <li><a href="#contact">연락처</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 프로젝트 소개
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -41,22 +46,17 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
+<!-- DEMO LINK -->
+## 데모 사이트
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 시작하기
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### 요구사항
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -64,7 +64,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### 실행방법
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -80,22 +80,12 @@ This is an example of how to list things you need to use the software and how to
    const API_KEY = 'ENTER YOUR API';
    ```
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- USAGE -->
+## 사용법
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
 
 
 <!-- CONTRIBUTING -->
@@ -110,38 +100,14 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+김대철 - kdc9619@khu.ac.kr
+Project Link: [https://github.com/dckat]
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
+최정민 -
+Project Link: [https://github.com/cjm2021401]
 
 
 
