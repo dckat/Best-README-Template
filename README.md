@@ -1,4 +1,4 @@
-# CafeRecommend (카페 추천 시스템)
+# CafeRecommend
 
 <!-- TABLE OF CONTENTS -->
 <h2>목차</h2>
@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Capture][capture]](http://khuhub.khu.ac.kr/2015104153/CafeRecommend/uploads/bcc05b19d802e109e080a9fd8fd0a629/Capture.JPG)
 
 카카오 지도 API를 활용하여 사용자가 원하는 카페들을 지도상에서 추천해주는 서비스 입니다.
 
