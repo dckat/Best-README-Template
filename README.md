@@ -1,35 +1,32 @@
 # CafeRecommend (카페 추천 시스템)
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
-  <h2>목차</h2>
-  <ol>
-    <li>
-      <a href="#about-the-project">About the Project</a>
-    </li>
-    <li>
-      <a href="#demo-link">Demo Link</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisite">Prerequisite</a></li>
-        <li><a href="#execution">Execution</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-      <ul>
-        <li><a href="#login">Login</a></li>
-        <li><a href="#signup">SignUp</a></li>
-        <li><a href="#map">Map</a></li>
-        <li><a href="#review">Review</a></li>
-        <li><a href="#recommend">Recommend</a></li>
-      </ul>
-    <li><a href="#contributing>Contributing</li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
+<h2>목차</h2>
+<ol>
+  <li>
+    <a href="#about-the-project">About the Project</a>
+  </li>
+  <li>
+    <a href="#demo-link">Demo Link</a>
+  </li>
+  <li>
+    <a href="#getting-started">Getting Started</a>
+    <ul>
+      <li><a href="#prerequisite">Prerequisite</a></li>
+      <li><a href="#execution">Execution</a></li>
+    </ul>
+  </li>
+  <li><a href="#usage">Usage</a></li>
+    <ul>
+      <li><a href="#login">Login</a></li>
+      <li><a href="#signup">SignUp</a></li>
+      <li><a href="#map">Map</a></li>
+      <li><a href="#review">Review</a></li>
+      <li><a href="#recommend">Recommend</a></li>
+    </ul>
+  <li><a href="#contributing>Contributing</li>
+  <li><a href="#contact">Contact</a></li>
+</ol>
 
 
 <!-- ABOUT THE PROJECT -->
