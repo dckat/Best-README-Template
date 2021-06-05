@@ -52,15 +52,16 @@ https://2015104153.oss2021.tk:3000
 
 1. 구글 클라우드 생성 및 프로젝트 등록 후 ClientID 발급 (https://cloud.google.com/)
 2. 카카오 Developer 가입 후 애플리케이션 추가 후 Javascript API키 발급 (https://developers.kakao.com/)
-3. 쿠허브 repo clone
+3. sql폴더에 정의된 테이블 생성문 MySQL에서 실행
+4. KHU-HUB repo clone
    ```sh
    git clone http://khuhub.khu.ac.kr/2015104153/CafeRecommend
    ```
-4. 디렉토리 이동 후 npm 패키지 설치
+5. 디렉토리 이동 후 npm 패키지 설치
    ```sh
    npm install
    ```
-4. 발급받은 ClientID를 `index.js`, `index.ejs`, Javascript API키는 `map.ejs`에 각각 넣기
+6. 발급받은 ClientID를 `index.js`, `index.ejs`, Javascript API키는 `map.ejs`에 각각 넣기
    ```JS
    var CLIENT_ID = "발급받은 ClientID"   // index.js
    ```
@@ -72,7 +73,7 @@ https://2015104153.oss2021.tk:3000
    ```HTML
    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=발급받은API키&libraries=services"></script> // map.ejs
    ```
-5. MySQL connection 연결 설정 (index.js)
+7. MySQL connection 연결 설정 (index.js)
      ```JS
      var connection = mysql.createConnection({
       host: "IP주소 입력 (localhost 또는 AWS 서버 주소)",
@@ -81,7 +82,7 @@ https://2015104153.oss2021.tk:3000
       database: "스키마이름 입력",
      });
    ```
-7. 프로그램 실행
+8. 프로그램 실행
    ```sh
    npm run start
    ```
