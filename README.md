@@ -45,13 +45,13 @@ https://2015104153.oss2021.tk:3000
 ## Getting Started
 
 ### Prerequisite
-1.<a href="https://nodejs.org/ko/">Node.js
+* <a href="https://nodejs.org/ko/">Node.js
   
   
-2.<a href="https://www.mysql.com/">MySQL
+* <a href="https://www.mysql.com/">MySQL
   
   
-3.<a href="https://aws.amazon.com/ko/?nc2=h_lg">AWS
+* <a href="https://aws.amazon.com/ko/?nc2=h_lg">AWS
   
 
 
