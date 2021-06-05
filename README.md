@@ -1,6 +1,7 @@
+# CafeRecommend (카페 추천 시스템)
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>목차</summary>
   <ol>
     <li>
       <a href="#about-the-project">About the Project</a>
