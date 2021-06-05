@@ -54,12 +54,9 @@ https://2015104153.oss2021.tk:3000
 ## Getting Started
 
 ### Prerequisite
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+<a href="https://nodejs.org/ko/">Node.js
+<a href="https://www.mysql.com/">MySQL
+<a href="https://aws.amazon.com/ko/?nc2=h_lg">AWS
 
 ### Execution
 
@@ -74,18 +71,27 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 5. 발급받은 ClientID를 `index.js`, `index.ejs`, Javascript API키는 `map.ejs`에 각각 넣기
-   ```JS (index.js)
-   var CLIENT_ID = "발급받은 ClientID"
+   ```JS
+   var CLIENT_ID = "발급받은 ClientID"   // index.js
    ```
    
-   ```HTML (index.ejs)
-   <meta name="google-signin-client_id" content="발급받은 ClientID">
+   ```HTML
+   <meta name="google-signin-client_id" content="발급받은 ClientID"> // index.ejs
    ```
    
-   ```HTML (map.ejs)
-   <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=발급받은API키&libraries=services"></script>
+   ```HTML
+   <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=발급받은API키&libraries=services"></script> // map.ejs
    ```
-6. 프로그램 실행
+6. MySQL connection 연결 설정 (index.js)
+     ```JS
+     var connection = mysql.createConnection({
+      host: "IP주소 입력 (localhost 또는 AWS 서버 주소)",
+      user: "계정 입력",
+      password: "암호 입력",
+      database: "스키마이름 입력",
+     });
+   ```
+7. 프로그램 실행
    ```sh
    npm run start
    ```
