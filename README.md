@@ -45,13 +45,13 @@ https://2015104153.oss2021.tk:3000
 ## Getting Started
 
 ### Prerequisite
-<a href="https://nodejs.org/ko/">Node.js
+1.<a href="https://nodejs.org/ko/">Node.js
   
   
-<a href="https://www.mysql.com/">MySQL
+2.<a href="https://www.mysql.com/">MySQL
   
   
-<a href="https://aws.amazon.com/ko/?nc2=h_lg">AWS
+3.<a href="https://aws.amazon.com/ko/?nc2=h_lg">AWS
   
 
 
@@ -67,7 +67,7 @@ https://2015104153.oss2021.tk:3000
    ```sh
    npm install
    ```
-5. 발급받은 ClientID를 `index.js`, `index.ejs`, Javascript API키는 `map.ejs`에 각각 넣기
+4. 발급받은 ClientID를 `index.js`, `index.ejs`, Javascript API키는 `map.ejs`에 각각 넣기
    ```JS
    var CLIENT_ID = "발급받은 ClientID"   // index.js
    ```
@@ -79,7 +79,7 @@ https://2015104153.oss2021.tk:3000
    ```HTML
    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=발급받은API키&libraries=services"></script> // map.ejs
    ```
-6. MySQL connection 연결 설정 (index.js)
+5. MySQL connection 연결 설정 (index.js)
      ```JS
      var connection = mysql.createConnection({
       host: "IP주소 입력 (localhost 또는 AWS 서버 주소)",
