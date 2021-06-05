@@ -104,21 +104,18 @@ Map에서 화면 하단의 추천 버튼 클릭 시 나타나는 화면입니다
 <!-- CONTRIBUTING -->
 ## Contributing
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. 프로젝트 Fork
+2. 브랜치 생성 후 변경사항 작업
+3. 브랜치 push 후 Pull Request Open
 
 <!-- CONTACT -->
 ## Contact
 
-김대철 - kdc9619@khu.ac.kr
-Github Link: [https://github.com/dckat]
+김대철: kdc9619@khu.ac.kr
+<a href="https://github.com/dckat">Github Link
 
-최정민 - cjm2021401@khu.ac.kr
-Github Link: [https://github.com/cjm2021401]
-
+최정민: cjm2021401@khu.ac.kr
+<a href="https://github.com/cjm2021401">Github Link
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
