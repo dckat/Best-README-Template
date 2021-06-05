@@ -2,6 +2,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
+  <h2>목차</h2>
   <ol>
     <li>
       <a href="#about-the-project">About the Project</a>
