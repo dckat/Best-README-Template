@@ -17,12 +17,6 @@
     </ul>
   </li>
   <li><a href="#usage">Usage</a></li>
-    <ul>
-      <li><a href="#login-signup">Login & SignUp</a></li>
-      <li><a href="#map">Map</a></li>
-      <li><a href="#review">Review</a></li>
-      <li><a href="#recommend">Recommend</a></li>
-    </ul>
   <li><a href="#contributing">Contributing</a></li>
   <li><a href="#contact">Contact</a></li>
 </ol>
