@@ -3,35 +3,35 @@
   <summary>목차</summary>
   <ol>
     <li>
-      <a href="#프로젝트 소개">프로젝트 소개</a>
+      <a href="#about-the-project">About the Project</a>
     </li>
     <li>
-      <a href="#데모 사이트">데모 사이트</a>
+      <a href="#demo-link">Demo Link</a>
     </li>
     <li>
-      <a href="#시작하기">시작하기</a>
+      <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#요구사항">요구사항</a></li>
-        <li><a href="#실행방법">실행방법</a></li>
+        <li><a href="#prerequisite">Prerequisite</a></li>
+        <li><a href="#execution">Execution</a></li>
       </ul>
     </li>
-    <li><a href="#사용법">사용법</a></li>
+    <li><a href="#usage">Usage</a></li>
       <ul>
-        <li><a href="#로그인">로그인</a></li>
-        <li><a href="#회원가입">회원가입</a></li>
-        <li><a href="#지도">지도</a></li>
-        <li><a href="#후기등록">후기등록</a></li>
-        <li><a href="#추천">추천</a></li>
+        <li><a href="#login">Login</a></li>
+        <li><a href="#signup">SignUp</a></li>
+        <li><a href="#map">Map</a></li>
+        <li><a href="#review">Review</a></li>
+        <li><a href="#recommend">Recommend</a></li>
       </ul>
-    <li><a href="#Contributing>Contributing</li>
-    <li><a href="#">연락처</a></li>
+    <li><a href="#contributing>Contributing</li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## 프로젝트 소개
+## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -47,16 +47,16 @@ Of course, no one template will serve all projects since your needs may be diffe
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 <!-- DEMO LINK -->
-## 데모 사이트
+## Demo Link
 
 
 <!-- GETTING STARTED -->
-## 시작하기
+## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### 요구사항
+### Prerequisite
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -64,7 +64,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### 실행방법
+### Execution
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -81,7 +81,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 <!-- USAGE -->
-## 사용법
+## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
