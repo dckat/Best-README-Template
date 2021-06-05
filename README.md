@@ -24,7 +24,8 @@
       <li><a href="#review">Review</a></li>
       <li><a href="#recommend">Recommend</a></li>
     </ul>
-  <li><a href="#contributing>Contributing</li>
+  <li>
+    <a href="#contributing>Contributing</a></li>
   <li><a href="#contact">Contact</a></li>
 </ol>
 
