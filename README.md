@@ -18,8 +18,7 @@
   </li>
   <li><a href="#usage">Usage</a></li>
     <ul>
-      <li><a href="#login">Login</a></li>
-      <li><a href="#signup">SignUp</a></li>
+      <li><a href="#login&signup">Login & SignUp</a></li>
       <li><a href="#map">Map</a></li>
       <li><a href="#review">Review</a></li>
       <li><a href="#recommend">Recommend</a></li>
