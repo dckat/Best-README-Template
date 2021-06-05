@@ -47,7 +47,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 <!-- DEMO LINK -->
 ## Demo Link
-[https://2015104153.oss2021.tk:3000]
+https://2015104153.oss2021.tk:3000
 
 
 <!-- GETTING STARTED -->
