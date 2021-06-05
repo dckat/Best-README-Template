@@ -112,8 +112,12 @@ Map에서 화면 하단의 추천 버튼 클릭 시 나타나는 화면입니다
 ## Contact
 
 2015104153 김대철
+  
+  
   <a href="https://github.com/dckat">Github Link</a>
 
 
 2016104174 최정민
+  
+  
   <a href="https://github.com/cjm2021401">Github Link</a>
