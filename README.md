@@ -3,28 +3,28 @@
   <summary>목차</summary>
   <ol>
     <li>
-      <a href="#about-the-project">프로젝트 소개</a>
+      <a href="#프로젝트 소개">프로젝트 소개</a>
     </li>
     <li>
-      <a href="#demo-link">데모 사이트</a>
+      <a href="#데모 사이트">데모 사이트</a>
     </li>
     <li>
-      <a href="#getting-started">시작하기</a>
+      <a href="#시작하기">시작하기</a>
       <ul>
-        <li><a href="#prerequisites">요구사항</a></li>
-        <li><a href="#execution">실행방법</a></li>
+        <li><a href="#요구사항">요구사항</a></li>
+        <li><a href="#실행방법">실행방법</a></li>
       </ul>
     </li>
-    <li><a href="#usage">사용법</a></li>
+    <li><a href="#사용법">사용법</a></li>
       <ul>
-        <li><a href="#login">로그인</a></li>
-        <li><a href="#signup">회원가입</a></li>
-        <li><a href="#map">지도</a></li>
-        <li><a href="#review">후기등록</a></li>
-        <li><a href="#recommend">추천</a></li>
+        <li><a href="#로그인">로그인</a></li>
+        <li><a href="#회원가입">회원가입</a></li>
+        <li><a href="#지도">지도</a></li>
+        <li><a href="#후기등록">후기등록</a></li>
+        <li><a href="#추천">추천</a></li>
       </ul>
-    <li><a href="#contributing>Contributing</li>
-    <li><a href="#contact">연락처</a></li>
+    <li><a href="#Contributing>Contributing</li>
+    <li><a href="#">연락처</a></li>
   </ol>
 </details>
 
